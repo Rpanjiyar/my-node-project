@@ -1,0 +1,16 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "echo 'linting code...'"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
